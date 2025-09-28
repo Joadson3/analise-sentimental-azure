@@ -1,5 +1,5 @@
 # Desafio - Azure Speech Studio e Language Studio.
-**Sentiment and opinion mining** é uma solução da plataforma **Language Studio, da Azure**, que permite **detectar sentimentos positivos, negativos e neutros** a partir de sentenças. Esse repositório mostra alguns exemplos de testes na plataforma. Os procedimentos foram realizados como parte do **Bootcamp Microsoft Azure AI Fundamentals, da DIO**.
+**Sentiment and opinion mining** é uma solução da plataforma **Language Studio, da Azure**, que permite **detectar sentimentos positivos, negativos e neutros** a partir de sentenças. Esse repositório mostra alguns exemplos de testes na plataforma. Os procedimentos foram realizados como parte do **Bootcamp Avanade - Back-end com .NET e IA, da DIO**.
 
 ![Static Badge](https://img.shields.io/badge/Status_Projeto:-Concluído_(28/Setembro/2025)-green)
 
