@@ -25,11 +25,11 @@ Para ser possível usar o Language Studio, é essencial que você possua um recu
 2. Criar um novo recurso **Language Service** através da opção Create Resource.
 
 <div align="center">
-    <img src="readmeFiles/01.png" alt="Create a resource" width="600"/>
+    <img src="images/01.png" alt="Create a resource" width="600"/>
 </div>
 
 <div align="center">
-    <img src="readmeFiles/03.png" alt="Create a resource" width="600"/>
+    <img src="images/03.png" alt="Create a resource" width="600"/>
 </div>
 
 3. Esperar o *deploy* do recurso terminar.
@@ -41,52 +41,52 @@ Com o recurso Language Service criado, é preciso conecta-lo ao Language Studio.
 2. Na página inicial, acessar os recursos criados através do botão "Select a resouce".
 
 <div align="center">
-    <img src="readmeFiles/04.png" alt="View all resources" width="800"/>
+    <img src="images/04.png" alt="View all resources" width="800"/>
 </div>
 
 3. Preencha as informações e selecione o recurso recém criado.
 
 <div align="center">
-    <img src="readmeFiles/05.png" alt="Set default resource" width="800"/>
+    <img src="images/05.png" alt="Set default resource" width="800"/>
 </div>
 
 ### Selecionando e testando o serviço no Language Studio
 Ao retornar a página inicial após concluídos os passos anteriores, é possível ver a lista de serviços disponíveis para teste na plataforma. Nesse experimento foi usado o serviço "Analyze sentiment and mine opinions", na aba "Classify text".
 
 <div align="center">
-    <img src="readmeFiles/06.png" alt="Language Studio Services" width="800"/>
+    <img src="images/06.png" alt="Language Studio Services" width="800"/>
 </div>
 
 ## Resultados
 Ao acessar o serviço é possível carregar o texto a ser analisado, selecionar sua linguagem e também ativar a opção de opinion mining. Para esse experimento, selecionei um capítulo do livro de Mateus, da Bíblia. 
 
 <div align="center">
-    <img src="readmeFiles/07.png" alt="Language Studio Services" width="800"/>
+    <img src="images/07.png" alt="Language Studio Services" width="800"/>
 </div>
 
 Abaixo podemos ver o resultado da análise de sentimento de todo o texto. De acordo com os resultados, o texto é majoritariamente negativo (65%). Contudo, a confiança do resultado informado é de apenas 25%. É interesante notar que algumas sentenças obtiveram boa taxa de *confidence*, enquanto outras foram consideradas 100% negativas com 0% de confiança.
 
 <div align="center">
-    <img src="readmeFiles/08.png" alt="Language Studio Services" width="400"/>
+    <img src="images/08.png" alt="Language Studio Services" width="400"/>
 </div>
 
 <br>
 
 <div align="center">
-    <img src="readmeFiles/09.png" alt="Language Studio Services" width="600"/>
+    <img src="images/09.png" alt="Language Studio Services" width="600"/>
 </div>
 
 <br>
 
 <div align="center">
-    <img src="readmeFiles/11.png" alt="Language Studio Services" width="600"/>
+    <img src="images/11.png" alt="Language Studio Services" width="600"/>
 </div>
 
 
 Abaixo é possível observar a funcionalidade de *opinion mining* funcionando:
 
 <div align="center">
-    <img src="readmeFiles/10.png" alt="Language Studio Services" width="600"/>
+    <img src="images/10.png" alt="Language Studio Services" width="600"/>
 </div>
 
 ## Conclusão e Insights
